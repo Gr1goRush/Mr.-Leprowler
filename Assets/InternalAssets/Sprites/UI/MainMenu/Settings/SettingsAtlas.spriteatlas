@@ -1,0 +1,85 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!687078895 &4343727234628468602
+SpriteAtlas:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: SettingsAtlas
+  m_EditorData:
+    serializedVersion: 2
+    textureSettings:
+      serializedVersion: 2
+      anisoLevel: 1
+      compressionQuality: 50
+      maxTextureSize: 2048
+      textureCompression: 0
+      filterMode: 1
+      generateMipMaps: 0
+      readable: 0
+      crunchedCompression: 0
+      sRGB: 1
+    platformSettings:
+    - serializedVersion: 3
+      m_BuildTarget: DefaultTexturePlatform
+      m_MaxTextureSize: 1024
+      m_ResizeAlgorithm: 0
+      m_TextureFormat: -1
+      m_TextureCompression: 1
+      m_CompressionQuality: 50
+      m_CrunchedCompression: 0
+      m_AllowsAlphaSplitting: 0
+      m_Overridden: 0
+      m_AndroidETC2FallbackOverride: 0
+      m_ForceMaximumCompressionQuality_BC6H_BC7: 0
+    packingSettings:
+      serializedVersion: 2
+      padding: 4
+      blockOffset: 1
+      allowAlphaSplitting: 0
+      enableRotation: 0
+      enableTightPacking: 1
+      enableAlphaDilation: 0
+    secondaryTextureSettings: {}
+    variantMultiplier: 1
+    packables:
+    - {fileID: 2800000, guid: 5168b3a67dbe50740ac595aacd3e8f41, type: 3}
+    - {fileID: 2800000, guid: b96fb419775928c4a974c0f7fb6f4380, type: 3}
+    - {fileID: 2800000, guid: 0db62de6c0be40e47b1f9b6fc17b8e41, type: 3}
+    - {fileID: 2800000, guid: c78cc0ec084635b45b41228f90c29aac, type: 3}
+    - {fileID: 2800000, guid: 879cb4286c3f2a44882b6da0e7f4aeb3, type: 3}
+    - {fileID: 2800000, guid: 9ffbe1248d098994a8c6df80d99cbef5, type: 3}
+    - {fileID: 2800000, guid: e26c48b3bd395094b8c2ab001a04b181, type: 3}
+    - {fileID: 2800000, guid: 0363cc318bd3afd4e9475c9a0af34548, type: 3}
+    - {fileID: 2800000, guid: f1513579e78e36743bd978c358e69f1c, type: 3}
+    - {fileID: 2800000, guid: 4e4f4d39aff9cd340b90bc9b9a3f52f7, type: 3}
+    bindAsDefault: 1
+    isAtlasV2: 0
+    cachedData: {fileID: 0}
+  m_MasterAtlas: {fileID: 0}
+  m_PackedSprites:
+  - {fileID: 21300000, guid: 0363cc318bd3afd4e9475c9a0af34548, type: 3}
+  - {fileID: 21300000, guid: e26c48b3bd395094b8c2ab001a04b181, type: 3}
+  - {fileID: 21300000, guid: 9ffbe1248d098994a8c6df80d99cbef5, type: 3}
+  - {fileID: 21300000, guid: 5168b3a67dbe50740ac595aacd3e8f41, type: 3}
+  - {fileID: 21300000, guid: 0db62de6c0be40e47b1f9b6fc17b8e41, type: 3}
+  - {fileID: 21300000, guid: 879cb4286c3f2a44882b6da0e7f4aeb3, type: 3}
+  - {fileID: 21300000, guid: b96fb419775928c4a974c0f7fb6f4380, type: 3}
+  - {fileID: 21300000, guid: 4e4f4d39aff9cd340b90bc9b9a3f52f7, type: 3}
+  - {fileID: 21300000, guid: f1513579e78e36743bd978c358e69f1c, type: 3}
+  - {fileID: 21300000, guid: c78cc0ec084635b45b41228f90c29aac, type: 3}
+  m_PackedSpriteNamesToIndex:
+  - Frame 1171276594-2
+  - Frame 1171276594-1
+  - VibroOn
+  - AudioSettingDrop
+  - MusicOff
+  - VibroOff
+  - AudioSettingFill
+  - PrivacyPolicyButton
+  - Frame 1171276594
+  - MusicOn
+  m_RenderDataMap: {}
+  m_Tag: SettingsAtlas
+  m_IsVariant: 0

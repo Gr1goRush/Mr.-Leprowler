@@ -1,0 +1,79 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!687078895 &4343727234628468602
+SpriteAtlas:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: ShopAtlas
+  m_EditorData:
+    serializedVersion: 2
+    textureSettings:
+      serializedVersion: 2
+      anisoLevel: 1
+      compressionQuality: 50
+      maxTextureSize: 2048
+      textureCompression: 0
+      filterMode: 1
+      generateMipMaps: 0
+      readable: 0
+      crunchedCompression: 0
+      sRGB: 1
+    platformSettings: []
+    packingSettings:
+      serializedVersion: 2
+      padding: 8
+      blockOffset: 1
+      allowAlphaSplitting: 0
+      enableRotation: 1
+      enableTightPacking: 0
+      enableAlphaDilation: 0
+    secondaryTextureSettings: {}
+    variantMultiplier: 1
+    packables:
+    - {fileID: 2800000, guid: 55572e821173147438f82944ddc96581, type: 3}
+    - {fileID: 2800000, guid: c0fe9f4fe0b32f54fb1fe36c1ed3f020, type: 3}
+    - {fileID: 2800000, guid: a0f3cc4f22a8a3843afca635409d6c7e, type: 3}
+    - {fileID: 2800000, guid: 2409ce28b57ecf649bbd7bf50c186624, type: 3}
+    - {fileID: 2800000, guid: 01d9cfe99aa97804fb2c39bf7d6df5b4, type: 3}
+    - {fileID: 2800000, guid: ce70220a2877be3498f9a8e70d370149, type: 3}
+    - {fileID: 2800000, guid: 67f973dcaf8d44b46a34a43012b7d230, type: 3}
+    - {fileID: 2800000, guid: f359de75dc9ba7346ad1f371347307b5, type: 3}
+    - {fileID: 2800000, guid: 1a67ce04c59ae0347a0e30add22dfe22, type: 3}
+    - {fileID: 2800000, guid: 7e8484470ed22394892de7e6d9a9b11c, type: 3}
+    - {fileID: 2800000, guid: cab2da35c9c66d248ba1dc09d5bbee7c, type: 3}
+    - {fileID: 2800000, guid: 6f70670be0cf86a4d8e229fc083f1fcf, type: 3}
+    bindAsDefault: 1
+    isAtlasV2: 0
+    cachedData: {fileID: 0}
+  m_MasterAtlas: {fileID: 0}
+  m_PackedSprites:
+  - {fileID: 21300000, guid: 55572e821173147438f82944ddc96581, type: 3}
+  - {fileID: 21300000, guid: 1a67ce04c59ae0347a0e30add22dfe22, type: 3}
+  - {fileID: 21300000, guid: cab2da35c9c66d248ba1dc09d5bbee7c, type: 3}
+  - {fileID: 21300000, guid: f359de75dc9ba7346ad1f371347307b5, type: 3}
+  - {fileID: 21300000, guid: 7e8484470ed22394892de7e6d9a9b11c, type: 3}
+  - {fileID: 21300000, guid: 2409ce28b57ecf649bbd7bf50c186624, type: 3}
+  - {fileID: 21300000, guid: 01d9cfe99aa97804fb2c39bf7d6df5b4, type: 3}
+  - {fileID: 21300000, guid: ce70220a2877be3498f9a8e70d370149, type: 3}
+  - {fileID: 21300000, guid: 6f70670be0cf86a4d8e229fc083f1fcf, type: 3}
+  - {fileID: 21300000, guid: 67f973dcaf8d44b46a34a43012b7d230, type: 3}
+  - {fileID: 21300000, guid: a0f3cc4f22a8a3843afca635409d6c7e, type: 3}
+  - {fileID: 21300000, guid: c0fe9f4fe0b32f54fb1fe36c1ed3f020, type: 3}
+  m_PackedSpriteNamesToIndex:
+  - Hammer
+  - Shop_BG3
+  - ShopTitle_Hammers
+  - Shop_BG2
+  - ShopHammerInfoContainer
+  - PuchaseItemButton
+  - SelectedItemButton
+  - SelectItemButton
+  - ShopTitle_Locations
+  - Shop_BG1
+  - Hammer3
+  - Hammer2
+  m_RenderDataMap: {}
+  m_Tag: ShopAtlas
+  m_IsVariant: 0
